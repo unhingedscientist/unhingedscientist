@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Ohayou Gozaimasu , My name is Amante.
 #### So glad you could make it😊
-![1617-shirakami-fubuki-banner (1)](https://github.com/unhingedscientist/unhingedscientist/assets/69470039/d5779634-cf32-40ae-994b-ad242db2a317)
+[DemonLordRaizen-Shirakami-Fubuki-Hololive-Virtual-YouTuber-7100127.webm](https://github.com/unhingedscientist/unhingedscientist/assets/69470039/3ac9f49d-5e4d-4125-b18b-c72d354e1b5a)
 
 I've been programming for a while now since i was 14 to be exact. I'm currently a SOC Analyst working towards becoming a Security researcher. Please do look around and see some of my goofy projects that I've made.
 
@@ -19,18 +19,12 @@ Skills: C++/C#/Python/ X86 assembly/ Node.js/Devops Tools
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/unhingedscientist)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=unhingedscientist)](https://github.com/ryo-ma/github-profile-trophy)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unhingedscientist)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=unhingedscientist&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=unhingedscientist)  
-
-![GitHub metrics](https://metrics.lecoq.io/unhingedscientist)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=unhingedscientist)  
 
 ![Profile views](https://gpvc.arturio.dev/unhingedscientist)  

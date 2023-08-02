@@ -2,8 +2,7 @@
 
 ### Hi there 👋, Ohayou Gozaimasu , My name is Amante.
 #### So glad you could make it😊
-[DemonLordRaizen-Shirakami-Fubuki-Hololive-Virtual-YouTuber-7100127.webm](https://github.com/unhingedscientist/unhingedscientist/assets/69470039/c77b6630-d828-474a-a9a9-980b708e6997)
-
+![1617-shirakami-fubuki-banner (1)](https://github.com/unhingedscientist/unhingedscientist/assets/69470039/d5779634-cf32-40ae-994b-ad242db2a317)
 
 I've been programming for a while now since i was 14 to be exact. I'm currently a SOC Analyst working towards becoming a Security researcher. Please do look around and see some of my goofy projects that I've made.
 

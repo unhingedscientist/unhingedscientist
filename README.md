@@ -1,10 +1,10 @@
-### Hi there 👋
+
 
 ### Hi there 👋, Ohayou Gozaimasu , My name is Amante.
 #### So glad you could make it😊
 [DemonLordRaizen-Shirakami-Fubuki-Hololive-Virtual-YouTuber-7100127.webm](https://github.com/unhingedscientist/unhingedscientist/assets/69470039/3ac9f49d-5e4d-4125-b18b-c72d354e1b5a)
 
-I've been programming for a while now since i was 14 to be exact. I'm currently a SOC Analyst working towards becoming a Security researcher. Please do look around and see some of my goofy projects that I've made.
+I've been programming for a while now since i was 14 to be exact. I'm currently a Research assistant doing my PHD working towards becoming a Security research fellow. Please do look around and see some of my goofy projects that I've made.
 
 Skills: C++/C#/Python/ X86 assembly/ Node.js/Devops Tools
 
@@ -25,6 +25,3 @@ Skills: C++/C#/Python/ X86 assembly/ Node.js/Devops Tools
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=unhingedscientist&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=unhingedscientist)  
-
-![Profile views](https://gpvc.arturio.dev/unhingedscientist)  

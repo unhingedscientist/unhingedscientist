@@ -8,10 +8,10 @@ I've been programming for a while now since i was 14 to be exact. I'm currently 
 
 Skills: C++/C#/Python/ X86 assembly/ Node.js/Devops Tools
 
-- 🔭 I’m currently working on My CISSP  
-- 🌱 I’m currently learning Rust  
-- 👯 I’m looking to collaborate on Cybersecurity Projects 
-- 🤔 I’m looking for help with Getting a research position 
+- 🔭 I’m currently working on my startup  
+- 🌱 I’m currently learning Large Language Models  
+- 👯 I’m looking to collaborate on open source projects 
+- 🤔 I’m looking for help with Getting funding 
 - 💬 Ask me about My pets 
 - 📫 How to reach me: Thats Classified 
 - ⚡ Fun fact: I was a Starcraft 2 Pro gamer 
